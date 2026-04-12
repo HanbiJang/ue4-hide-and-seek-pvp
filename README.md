@@ -19,7 +19,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| **프로젝트명** | UE4PvPGame |
+| **프로젝트명** | ue4-hide-and-seek-pvp |
 | **장르** | 멀티플레이 PvP 숨바꼭질 게임 |
 | **플랫폼** | PC (Windows) |
 | **엔진** | Unreal Engine 4 |
