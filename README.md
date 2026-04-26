@@ -1,9 +1,6 @@
 ![20220721_131133_1](https://user-images.githubusercontent.com/68460391/180128409-b4deb644-84ba-43c9-80a7-27db589f1ff3.png)
 - 로비 화면
 
-![20220726_162302_1](https://user-images.githubusercontent.com/68460391/182110745-ee58a3fb-c991-4464-b563-d74174cb79b0.png)
-- 매칭 대기 화면
-  
 ![20220721_131133_3](https://user-images.githubusercontent.com/68460391/180128414-3beedc45-ff66-4060-ade6-c224baebc3d0.png)
 - 생존자 플레이 화면 (발전기 수리 진행)
 
