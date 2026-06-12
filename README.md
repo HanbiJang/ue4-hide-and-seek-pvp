@@ -101,7 +101,7 @@ UE4 리슨 서버 구조 위에서 `bReplicates`, Server/Multicast RPC를 활용
 
 ### UE4 C++ 리플리케이션 직접 구현
 
-Photon 등 서드파티 솔루션 없이 UE4 내장 리플리케이션 시스템을 C++로 직접 구현했습니다. `bReplicates = true` 설정과 `Server_`, `Multicast_` RPC 함수를 통해 킬러 공격, 생존자 변신 메시 교체, 발전기 수리 진행도를 모든 클라이언트에 동기화합니다.
+UE4 리슨 서버 구조에서 `bReplicates = true` 설정과  Server/Multicast RPC를 활용하여 킬러 공격, 생존자 변신 메시 교체, 발전기 수리 진행도를 모든 클라이언트에 동기화했습니다.
 
 ### 생존자 변신 시스템
 
