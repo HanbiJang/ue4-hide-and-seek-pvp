@@ -1,6 +1,6 @@
 # UE4 비대칭 PvP 숨바꼭질
 
-**UE4 C++ 리플리케이션을 직접 구현한 킬러 vs 생존자 비대칭 멀티플레이어 숨바꼭질 게임**
+**UE4 리슨 서버 기반 리플리케이션과 RPC를 활용한 킬러 vs 생존자 비대칭 멀티플레이어 숨바꼭질 게임**
 
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%204-0E1128?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)
